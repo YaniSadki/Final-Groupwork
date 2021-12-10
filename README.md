@@ -1,8 +1,8 @@
 # Final-Groupwork
 
-###################################################################################################################
-                                         PROBLEMS WE HAVE SEEN IN THE ACTUAL WEBSITE
-###################################################################################################################
+#############################################################################################################################
+                                            PROBLEMS WE HAVE SEEN IN THE ACTUAL WEBSITE
+#############################################################################################################################
 All_employee.html : 
   #In this file, we have seen that we need to add filters to refine searches and fin a person more easily.
   #The interface is not good, it can be even easier to use. 
@@ -26,4 +26,4 @@ Login.html :
   #Anyone can connect can connect as there is no verification we can enter anything and be connected to the platform.
   #No admin and employee separation.
   
- ###################################################################################################################  
+#############################################################################################################################
