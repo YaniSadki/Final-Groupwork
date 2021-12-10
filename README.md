@@ -36,3 +36,5 @@ Login.html :
 2) When we are working on GitHub, we are on the steps of "Review", "Feedback" and "Approve ?".
 
 3) If we were working in V-Cycle methodology, the tasks wouldn't so different since we already started by doing Trello to define the concept and different design we needed to do, then we coded our tought and tested them after.
+
+https://trello.com/b/PEMXElk9/new-features
