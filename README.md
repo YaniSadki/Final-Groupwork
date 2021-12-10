@@ -35,4 +35,4 @@ Login.html :
 
 2)
 
-3)
+3) If we were working in V-Cycle methodology, the tasks wouldn't so different since we already started by doing Trello to define the concept and different design we needed to do, then we coded our tought and tested them after
