@@ -26,5 +26,13 @@ Login.html :
   #Anyone can connect can connect as there is no verification we can enter anything and be connected to the platform.
   #No admin and employee separation.
   
+
+#############################################################################################################################
+                                                              QUESTIONS
 #############################################################################################################################
 
+1)
+
+2)
+
+3)
